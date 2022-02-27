@@ -1,8 +1,0 @@
-#tuple
-tuple=(12,34,65.89,890,"shruti")
-print(tuple)
-
-print(tuple.index(34))          #index-display the element of indexing value
-
-print(tuple.count(89))
-

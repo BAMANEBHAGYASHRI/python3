@@ -1,6 +1,0 @@
-#if-else:
-marks=float(input("take ur marks"))
-if(marks>35):
-    print("pass")
-else:
-    print("invalid marks")
