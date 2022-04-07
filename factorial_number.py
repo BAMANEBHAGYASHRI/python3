@@ -4,5 +4,5 @@ def factorial (no):
     
     return no*factorial(no-1)
     
-a=factorial(5)
+a=factorial(4)
 print(a)
